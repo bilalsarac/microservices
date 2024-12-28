@@ -1,0 +1,11 @@
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\client\InventoryClient.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\config\ObservabilityConfig.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\config\OpenAPIConfig.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\config\RestClientConfig.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\controller\OrderController.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\dto\OrderRequest.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\event\OrderPlacedEvent.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\model\Order.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\OrderServiceApplication.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\repository\OrderRepository.java
+C:\Users\Bilal Saraç\Desktop\myworkspace\ecommerce_new\order-service\src\main\java\com\ecommerce\microservices\order\service\OrderService.java

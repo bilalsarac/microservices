@@ -1,0 +1,3 @@
+com\ecommerce\microservices\api_gateway\config\SecurityConfig.class
+com\ecommerce\microservices\api_gateway\ApiGatewayApplication.class
+com\ecommerce\microservices\api_gateway\routes\Routes.class

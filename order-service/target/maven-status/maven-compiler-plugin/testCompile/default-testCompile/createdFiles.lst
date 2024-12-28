@@ -1,0 +1,3 @@
+com\ecommerce\microservices\order\OrderServiceApplicationTests.class
+com\ecommerce\microservices\order\TestcontainersConfiguration.class
+com\ecommerce\microservices\order\TestOrderServiceApplication.class

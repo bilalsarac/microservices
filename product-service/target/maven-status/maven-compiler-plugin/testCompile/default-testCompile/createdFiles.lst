@@ -1,0 +1,3 @@
+com\ecommerce\microservices\product\TestProductServiceApplication.class
+com\ecommerce\microservices\product\ProductServiceApplicationTests.class
+com\ecommerce\microservices\product\TestcontainersConfiguration.class

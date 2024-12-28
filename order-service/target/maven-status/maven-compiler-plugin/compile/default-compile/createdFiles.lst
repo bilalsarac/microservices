@@ -1,0 +1,14 @@
+com\ecommerce\microservices\order\repository\OrderRepository.class
+com\ecommerce\microservices\order\service\OrderService.class
+com\ecommerce\microservices\order\model\Order.class
+com\ecommerce\microservices\order\model\Order$OrderBuilder.class
+com\ecommerce\microservices\order\OrderServiceApplication.class
+com\ecommerce\microservices\order\config\RestClientConfig.class
+com\ecommerce\microservices\order\event\OrderPlacedEvent$Builder.class
+com\ecommerce\microservices\order\event\OrderPlacedEvent.class
+com\ecommerce\microservices\order\controller\OrderController.class
+com\ecommerce\microservices\order\dto\OrderRequest$UserDetails.class
+com\ecommerce\microservices\order\dto\OrderRequest.class
+com\ecommerce\microservices\order\client\InventoryClient.class
+com\ecommerce\microservices\order\config\OpenAPIConfig.class
+com\ecommerce\microservices\order\config\ObservabilityConfig.class

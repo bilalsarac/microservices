@@ -1,0 +1,6 @@
+com\ecommerce\microservices\inventory\controller\InventoryController.class
+com\ecommerce\microservices\inventory\InventoryApplication.class
+com\ecommerce\microservices\inventory\service\InventoryService.class
+com\ecommerce\microservices\inventory\repository\InventoryRepository.class
+com\ecommerce\microservices\inventory\model\Inventory.class
+com\ecommerce\microservices\inventory\config\OpenAPIConfig.class

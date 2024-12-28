@@ -1,0 +1,10 @@
+com\ecommerce\microservices\product\service\ProductService.class
+com\ecommerce\microservices\product\controller\ProductController.class
+com\ecommerce\microservices\product\config\OpenAPIConfig.class
+com\ecommerce\microservices\product\dto\ProductRequest.class
+com\ecommerce\microservices\product\model\Product$ProductBuilder.class
+com\ecommerce\microservices\product\model\Product.class
+com\ecommerce\microservices\product\dto\ProductResponse.class
+com\ecommerce\microservices\product\repository\ProductRepository.class
+com\ecommerce\microservices\product\ProductServiceApplication.class
+com\ecommerce\microservices\product\config\ObservationConfig.class

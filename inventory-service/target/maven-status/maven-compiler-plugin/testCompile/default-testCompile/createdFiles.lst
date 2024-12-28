@@ -1,0 +1,3 @@
+com\ecommerce\microservices\inventory\TestcontainersConfiguration.class
+com\ecommerce\microservices\inventory\InventoryApplicationTests.class
+com\ecommerce\microservices\inventory\TestInventoryApplication.class

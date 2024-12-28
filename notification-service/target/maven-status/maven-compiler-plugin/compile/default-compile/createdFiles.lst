@@ -1,0 +1,5 @@
+com\ecommerce\microservices\notification_service\service\NotificationService.class
+com\ecommerce\microservices\notification_service\NotificationServiceApplication.class
+com\ecommerce\microservices\order\event\OrderPlacedEvent$Builder.class
+com\ecommerce\microservices\notification_service\config\ObservabilityConfig.class
+com\ecommerce\microservices\order\event\OrderPlacedEvent.class
